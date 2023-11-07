@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "SmartHomeUI",
+  "display": "standalone",
+  "name": "SmartHomeUI",
+  "short_name": "SmartHomeUI",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

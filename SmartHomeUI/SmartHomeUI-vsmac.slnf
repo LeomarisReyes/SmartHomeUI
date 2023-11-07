@@ -1,0 +1,13 @@
+{
+  "solution": {
+    "path": "SmartHomeUI.sln",
+    "projects": [
+      "SmartHomeUI.Mobile\\SmartHomeUI.Mobile.csproj",
+      "SmartHomeUI.Skia.Gtk\\SmartHomeUI.Skia.Gtk.csproj",
+      "SmartHomeUI.Wasm\\SmartHomeUI.Wasm.csproj",
+      "SmartHomeUI.Server\\SmartHomeUI.Server.csproj",
+      "SmartHomeUI.Base\\SmartHomeUI.Base.csproj",
+      "SmartHomeUI\\SmartHomeUI.csproj"
+    ]
+  }
+}
